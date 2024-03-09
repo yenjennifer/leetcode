@@ -1,5 +1,5 @@
 class Solution:
-    def shuffle(self, nums):
+    def shuffle(self, nums, n):
         shuffled = []
         num1 = nums[:n]
         num2 = nums[n:]
@@ -9,7 +9,6 @@ class Solution:
                 shuffled.append(j)
                 num2.pop(0)
                 break
-
         return shuffled
 
 
