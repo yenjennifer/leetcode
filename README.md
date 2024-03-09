@@ -1,4 +1,4 @@
-# leetcode Python/C Solutions for Leetcode
+# Python Solutions for Leetcode
 
 | \# | Title | Category | Difficulty | Solution | Time | Space |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
