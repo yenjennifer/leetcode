@@ -10,6 +10,7 @@
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Array | Easy | [python](/python/2942.py) | O(N^2) | O(N) |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) | Array, Sorting | Easy | [python](/python/1637.py) | O(N) | O(N) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | Array | Easy | [python](/python/1672.py) | O(N) | O(N) |
-| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/) | Array | Easy | [python](/python/2798.py) | O() | O() |
-| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | Easy | [python](/python/1431.py) | O\(N\) | O\(N\) |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/) | Array | Easy | [python](/python/2798.py) | O(N) | O(1) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | Easy | [python](/python/1431.py) | O(N) | O(N) |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Array, Two Pointers | Easy | [python](/python/2824.py) | O(N^2) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
