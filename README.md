@@ -15,5 +15,6 @@
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Array, Two Pointers | Easy | [python](/python/2824.py) | O(N^2) | O(1) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | Array | Easy | [python](/python/1480.py) | O(N) | O(N) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Array | Easy | [python](/python/) | O(N^2) | O(N) |
+| 2798 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/) | Array, String | Easy | [python](/python/) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
