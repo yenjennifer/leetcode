@@ -4,12 +4,8 @@ class Solution:
         for sentence in sentences:
             nums.append(sentence.count(" "))
         return max(nums) + 1
-
-
-
         # return max(sentence.count(" ") for sentence in sentences)+1
-            
-        #for sentence in sentences:
+        # for sentence in sentences:
         #     spaces = 0
         #     for x in sentence:
         #         if x == " ":
