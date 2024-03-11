@@ -19,5 +19,7 @@
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | Array | Easy | [python](/python/2859.py) | O(NlogN) | O(N) |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/) | Bit Manipulation, Array | Easy | [python](/python/1720.py) | O(N) | O(N) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Array | Easy | [python](/python/2574.py) | O(N) | O(N) |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/) | Sorting, Array | Easy | [python](/python/2974.py) | O(NlogN) | O(N) |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | Array | Easy | [python](/python/1389.py) | O(N^2) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
