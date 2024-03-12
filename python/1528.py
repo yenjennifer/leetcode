@@ -4,8 +4,7 @@ class Solution:
         temp = [0]*len(s)
         for i in indices:
             temp[indices[i]]=s[i]
-        #string.join(array)
-        return ans.join(temp)
+        return ans.join(temp) #string.join(array)
 
 if __name__ == '__main__':
     s1 = Solution()
