@@ -21,5 +21,9 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | Array | Easy | [python](/python/2574.py) | O(N) | O(N) |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/) | Sorting, Array | Easy | [python](/python/2974.py) | O(NlogN) | O(N) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | Array | Easy | [python](/python/1389.py) | O(N^2) | O(N) |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/) | Array | Easy | [python](/python/1313.py) | O(N) | O(N) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | Array, String | Easy | [python](/python/1662.py) | O(N) | O(N) |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Array, String | Easy | [python](/python/1773.py) | O(N) | O(N) |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Array, String | Easy | [python](/python/1528.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
