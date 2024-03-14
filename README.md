@@ -25,5 +25,11 @@
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | Array, String | Easy | [python](/python/1662.py) | O(N) | O(N) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Array, String | Easy | [python](/python/1773.py) | O(N) | O(N) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Array, String | Easy | [python](/python/1528.py) | O(N) | O(N) |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | Array, String | Easy | [python](/python/1816.py) | O(N) | O(N) |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | Array, String | Easy | [python](/python/3065.py) | O(N) | O(1) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Array, String | Easy | [python](/python/2108.py) | O(N) | O(1) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Array | Easy | [python](/python/2535.py) | O(N) | O(1) |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | Array | Easy | [python](/python/) | O() | O() |
+|  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
