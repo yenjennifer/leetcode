@@ -34,4 +34,5 @@
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/) | Array, Bit Manipulation | Medium | [python](/python/2433.py) | O(N) | O(N) |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array, Matrix | Medium | [python](/python/1476.py) | O(R*C) | O(1) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Array, Matrix | Easy | [python](/python/463.py) | O(N^2) | O(1) |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | Array, Matrix | Easy | [python](/python/661.py) | O(m*n) | O(m*n) |
 |  | []() |  |  | [python](/python/) | O() | O() |
