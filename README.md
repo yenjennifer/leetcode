@@ -29,7 +29,10 @@
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | Array, String | Easy | [python](/python/3065.py) | O(N) | O(1) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Array, String | Easy | [python](/python/2108.py) | O(N) | O(1) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Array | Easy | [python](/python/2535.py) | O(N) | O(1) |
-| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | Array | Easy | [python](/python/) | O() | O() |
-|  | []() |  |  | [python](/python/) | O() | O() |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | Array, Hash Table | Easy | [python](/python/2367.py) | O(N) | O(N) |
+| 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)  Array, Hash Table | Easy | [python](/python/2006.py) | O(N) | O(N) |
+| 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/) | Array, Bit Manipulation | Medium | [python](/python/2433.py) | O(N) | O(N) |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array, Matrix | Medium | [python](/python/1476.py) | O(R*C) | O(1) |
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Array, Matrix | Easy | [python](/python/463.py) | O(N^2) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
