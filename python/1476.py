@@ -5,9 +5,8 @@ class SubrectangleQueries:
     
     def updateSubrectangle(self, row1, col1, row2, col2, newValue):
         for x in range(row1, row2+1):
-            self.rectangle[x][col1:col2+1] = [newValue] * (col2+1 - col1)
-            # for y in range(col1, col2+1):
-            #     self.rectangle[x][y] = newValue
+            for y in range(col1, col2+1):
+                self.rectangle[x][y] = newValue
         return self.rectangle
 
     def getValue(self, row, col):
