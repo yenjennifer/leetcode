@@ -1,31 +1,37 @@
-img = [[100,200,100],[200,50,200],[100,200,100]]
-n = len(img)
-m = len(img[0])
-ans=[]
-for r,row in enumerate(img):
-    ans.append([])
-    for c,col in enumerate(row):
-        s=0
-        count=0
-        for dx in range(-1,2):
-            for dy in range(-1,2):
-                if 0<=r+dx<n and 0<=c+dy<m:
-                    s+=img[r+dx][c+dy]
-                    count+=1
-        ans[-1].append(s//count)
-print(ans)
+class Solution:
+    def imageSmoother(self, img):
+        row_arr = [-1,0,1]
+        col_arr = [-1,0,1]
+        n = len(img) #row
+        m = len(img[0]) #column
+        # ans=[[0]*m]*n 
+        # cannot use this, *n is a shallow copy, it will change all the same row or colums and reference each other,
+        # the iteration will be as such:
+        # [[137, 0, 0], [137, 0, 0], [137, 0, 0]]
+        # [[137, 141, 0], [137, 141, 0], [137, 141, 0]]
+        # [[137, 141, 137], [137, 141, 137], [137, 141, 137]]
+        # [[141, 141, 137], [141, 141, 137], [141, 141, 137]]
+        # [[141, 138, 137], [141, 138, 137], [141, 138, 137]]
+        # [[141, 138, 141], [141, 138, 141], [141, 138, 141]]
+        # [[137, 138, 141], [137, 138, 141], [137, 138, 141]]
+        # [[137, 141, 141], [137, 141, 141], [137, 141, 141]]
+        # [[137, 141, 137], [137, 141, 137], [137, 141, 137]]
+        # [[137, 141, 137], [137, 141, 137], [137, 141, 137]]        
+        ans = [[0] * m for _ in range(n)]
+        for row in range(n):
+            for col in range(m):
+                sum = 0
+                count = 0
+                for i in row_arr:
+                    for j in col_arr:
+                        if row+i<0 or row+i==n or col+j<0 or col+j==m:
+                            continue
+                        sum += img[row+i][col+j]
+                        count += 1
+                ans[row][col] = sum//count
+        return ans
 
-# for i in range(r):
-#     for j in range(c):
-        # if :
-        #     img[i][j] = math.floor((img[i][j] + img[i][j-1]+ img[i][j+1] + 
-        #                             img[i-1][j] + img[i-1][j-1] + img[i-1][j+1] + 
-        #                             img[i+1][j] + img[i+1][j-1] + img[i+1][j+1])//9)
-        # if i == 0 or j == 0 or j == 0 or i == r or j == c:
-        #     img[i][j] = math.floor((img[i][j] + img[i][j-1] + 
-        #                             img[i-1][j] + img[i-1][j-1] + 
-        #                             img[i+1][j] + img[i+1][j-1])//6)
-        # if 0 < i < r-1 and 0 < j < c-1:
-        #     img[i][j] = math.floor((img[i][j] + img[i][j-1]+ img[i][j+1] + 
-        #                             img[i-1][j] + img[i-1][j-1] + img[i-1][j+1] + 
-        #                             img[i+1][j] + img[i+1][j-1] + img[i+1][j+1])//9)
+if __name__ in '__main__':
+    s = Solution()
+    img = [[100,200,100],[200,50,200],[100,200,100]]
+    print(s.imageSmoother(img))
