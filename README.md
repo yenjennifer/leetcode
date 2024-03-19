@@ -34,6 +34,6 @@
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/) | Array, Bit Manipulation | Medium | [python](/python/2433.py) | O(N) | O(N) |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Array, Matrix | Medium | [python](/python/1476.py) | O(R*C) | O(1) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Array, Matrix | Easy | [python](/python/463.py) | O(N^2) | O(1) |
-| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | Array, Matrix | Medium | [python](/python/661.py) | O(m*n) | O(m*n) |
-| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | Array, Hash Table | [python](/python/2610.py) | O(N) | O(N) |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | Array, Matrix | Easy | [python](/python/661.py) | O(m*n) | O(m*n) |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | Array, Hash Table | Medium | [python](/python/2610.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
