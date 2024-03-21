@@ -36,4 +36,6 @@
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Array, Matrix | Easy | [python](/python/463.py) | O(N^2) | O(1) |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | Array, Matrix | Easy | [python](/python/661.py) | O(m*n) | O(m*n) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | Array, Hash Table | Medium | [python](/python/2610.py) | O(N) | O(N) |
+| 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/) | Array, Math | Medium | [python](/python/1828.py) | O(N^2) | O(N) |
+|  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
