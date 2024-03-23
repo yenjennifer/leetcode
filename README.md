@@ -38,4 +38,6 @@
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | Array, Hash Table | Medium | [python](/python/2610.py) | O(N) | O(N) |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/) | Array, Math | Medium | [python](/python/1828.py) | O(N^2) | O(N) |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | Array, Greedy, Matrix | Medium | [python](/python/807.py) | O(N^2) | O(N) |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1211459522/) | Array, String | Medium | [python](/python/2125.py) | O(N) | O(1) |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | Array, String | [python](/python/1769.py) | O(N) | O(N^2) |
 |  | []() |  |  | [python](/python/) | O() | O() |
