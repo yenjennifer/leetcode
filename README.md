@@ -41,4 +41,7 @@
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1211459522/) | Array, String | Medium | [python](/python/2125.py) | O(N) | O(1) |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | Array, String | Medium | [python](/python/1769.py) | O(N) | O(N^2) |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | Array, String | [python](/python/2391.py) | O(N) | O(1) |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Easy | Array, Sorting | [python](/python/1122.py) | O(N^2) | O(1) |
+| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/) | Medium | Array, Sorting | [python](/python/2545.py) | O(NlogN) | O(N) |
+|  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
