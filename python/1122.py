@@ -1,5 +1,4 @@
 arr = [10,11,12]
-
 n = len(arr)
 ans = 0
 # ans = sum(arr)

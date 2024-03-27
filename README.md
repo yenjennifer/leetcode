@@ -43,5 +43,8 @@
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | Array, String | [python](/python/2391.py) | O(N) | O(1) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Easy | Array, Sorting | [python](/python/1122.py) | O(N^2) | O(1) |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/) | Medium | Array, Sorting | [python](/python/2545.py) | O(NlogN) | O(N) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | Sliding Window, String, Hash Table | [python](/python/424.py) | O(S) | O(1) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Easy | Hash Table, String | [python](/python/771.py) | O(N) | O(1) |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | Hash Table, String | [python](/python/2325.py) | O(S) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |

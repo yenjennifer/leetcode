@@ -4,7 +4,6 @@ klist = []
 ans = []
 for i in range(len(score)):
     klist.append((score[i][k],i))
-    print(klist)
 rank = sorted(klist, reverse = True)
 for j in range(len(score)):
     ans.append(score[rank[j][1]])
