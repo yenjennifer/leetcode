@@ -46,5 +46,6 @@
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | Sliding Window, String, Hash Table | [python](/python/424.py) | O(S) | O(1) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Easy | Hash Table, String | [python](/python/771.py) | O(N) | O(1) |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | Hash Table, String | [python](/python/2325.py) | O(S) | O(1) |
-|  | []() |  |  | [python](/python/) | O() | O() |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | Easy | Hash Table, String | [python](/python/1832.py) | O(S) | O(1) |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | Array, Hash Table, Sorting | [python](/python/) | O(n*NlogN) | O(n) |
 |  | []() |  |  | [python](/python/) | O() | O() |
