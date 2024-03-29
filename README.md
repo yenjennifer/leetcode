@@ -40,16 +40,16 @@
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | Array, Greedy, Matrix | Medium | [python](/python/807.py) | O(N^2) | O(N) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1211459522/) | Array, String | Medium | [python](/python/2125.py) | O(N) | O(1) |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | Array, String | Medium | [python](/python/1769.py) | O(N) | O(N^2) |
-| 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | Array, String | [python](/python/2391.py) | O(N) | O(1) |
-| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Easy | Array, Sorting | [python](/python/1122.py) | O(N^2) | O(1) |
-| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/) | Medium | Array, Sorting | [python](/python/2545.py) | O(NlogN) | O(N) |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | Sliding Window, String, Hash Table | [python](/python/424.py) | O(S) | O(1) |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Easy | Hash Table, String | [python](/python/771.py) | O(N) | O(1) |
-| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | Hash Table, String | [python](/python/2325.py) | O(S) | O(1) |
-| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | Easy | Hash Table, String | [python](/python/1832.py) | O(S) | O(1) |
-| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | Array, Hash Table, Sorting | [python](/python/) | O(n*NlogN) | O(n) |
-| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) | Easy | Array, Hash Table, String | [python](/python/1684.py) | O(M+N) | O(M) |
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy | Array, Hash Table, String | [python](/python/804.py) | O(N) | O(N) |
-| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | Array, Hash Table, Bit Manipulation | [python](/python/2657.py) | O(N^2) | O(N) |
-| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Hash Table, String, Counting | [python](/python/1347.py) | O(N) | O(1) |
+| 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Array, String | Medium | [python](/python/2391.py) | O(N) | O(1) |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Array, Sorting | Easy | [python](/python/1122.py) | O(N^2) | O(1) |
+| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/) | Array, Sorting | Medium | [python](/python/2545.py) | O(NlogN) | O(N) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Sliding Window, String, Hash Table | Medium | [python](/python/424.py) | O(S) | O(1) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Hash Table, String | Easy | [python](/python/771.py) | O(N) | O(1) |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Hash Table, String | Easy | [python](/python/2325.py) | O(S) | O(1) |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | Hash Table, String | Easy | [python](/python/1832.py) | O(S) | O(1) |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Array, Hash Table, Sorting | Medium | [python](/python/) | O(n*NlogN) | O(n) |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) | Array, Hash Table, String | Easy | [python](/python/1684.py) | O(M+N) | O(M) |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Array, Hash Table, String | Easy | [python](/python/804.py) | O(N) | O(N) |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Array, Hash Table, Bit Manipulation | Medium | [python](/python/2657.py) | O(N^2) | O(N) |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Hash Table, String, Counting | Medium | [python](/python/1347.py) | O(N) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
