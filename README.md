@@ -52,4 +52,5 @@
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Array, Hash Table, String | Easy | [python](/python/804.py) | O(N) | O(N) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Array, Hash Table, Bit Manipulation | Medium | [python](/python/2657.py) | O(N^2) | O(N) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Hash Table, String, Counting | Medium | [python](/python/1347.py) | O(N) | O(1) |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | Hash Table, Two Pointers, String, Greedy | Medium | [python](/python/763.py) | O(NlogN) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
