@@ -48,4 +48,5 @@
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | Easy | Hash Table, String | [python](/python/2325.py) | O(S) | O(1) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | Easy | Hash Table, String | [python](/python/1832.py) | O(S) | O(1) |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | Array, Hash Table, Sorting | [python](/python/) | O(n*NlogN) | O(n) |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) | Easy | Hash Table, Array, String | [python](/python/1684.py) | O(M+N) | O(M) |
 |  | []() |  |  | [python](/python/) | O() | O() |
