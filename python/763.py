@@ -1,7 +1,6 @@
 s  = "ababcbacadefegdehijhklij"
-ans = []
 ##get letter positions, store as tuples
-l = []
+ans,l = [],[]
 for i in set(s):
     left = s.index(i)
     right = len(s)-1 - s[::-1].index(i) 
