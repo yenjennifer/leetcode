@@ -55,4 +55,5 @@
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | Hash Table, Two Pointers, String, Greedy | Medium | [python](/python/763.py) | O(NlogN) | O(N) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) |Array, Hash Table | Easy | [python](/python/) | O(N^2) | O(N) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/) |Array, Hash Table | Easy | [python](/python/2956.py) | O(N+M) | O(min(N,M)) |
+| 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | Hash Table, String, Greedy | Medium | [python](/python/2405.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |

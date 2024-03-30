@@ -1,5 +1,5 @@
 nums = [1,2,1]
-##optimzed, beats 100%##
+##O(N^2), O(N)
 class Solution:
     def sumCounts(self, nums) -> int:
         sum = 0
@@ -12,6 +12,17 @@ class Solution:
                 sub+=len(set1)**2
             sum+=sub
             set1.clear()
+        return sum
+
+##O(N^3), O(N^2)
+class Solution:
+    def sumCounts(self, nums) -> int:
+        sum = 0
+        for i in range(len(nums)):
+            set1 = set()
+            for j in range(i,len(nums)):
+                set1.add(nums[j])
+                sum+=len(set1)**2
         return sum
 
         # sum = 0
