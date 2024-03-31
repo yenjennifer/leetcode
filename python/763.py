@@ -1,4 +1,4 @@
-s  = "ababcbacadefegdehijhklij"
+s = "caedbdedda"
 ##get letter positions, store as tuples
 ans,l = [],[]
 for i in set(s):
@@ -7,16 +7,27 @@ for i in set(s):
     l.append((left, right))
 l = sorted(l)
 
-##sliding window
+##partition
 new = l[0]
-for j in range(1,len(l)):
-    if new[1] > l[j][0]:
-        new = (min(new[0], l[j][0]), max(new[1], l[j][1])) #expand
+for letter in l[1:]:
+    if new[1] > letter[0]:
+        new = (min(new[0], letter[0]), max(new[1], letter[1])) #expand
     else:
         ans.append(new[1]-new[0]+1)
-        new = l[j]
+        new = letter
 ans.append(new[1]-new[0]+1)
 print(ans)
+
+
+# new = l[0]
+# for j in range(1,len(l)):
+#     if new[1] > l[j][0]:
+#         new = (min(new[0], l[j][0]), max(new[1], l[j][1])) #expand
+#     else:
+#         ans.append(new[1]-new[0]+1)
+#         new = l[j]
+# ans.append(new[1]-new[0]+1)
+# print(ans)
 
 
 ##optimze##
