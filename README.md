@@ -57,5 +57,7 @@
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/) |Array, Hash Table | Easy | [python](/python/2956.py) | O(N+M) | O(min(N,M)) |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | Hash Table, String, Greedy | Medium | [python](/python/2405.py) | O(N) | O(N) |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/) | Array, Hash Table | Medium | [python](/python/1817.py) | O(N^2) | O(K) |
-| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | Medium | Array, Hash Table, Math | [python](/python/2442.py) | O(N*m) | O(N) |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | Array, Hash Table, Math | Medium | [python](/python/2442.py) | O(N*m) | O(N) |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) | Array, Math, Bit Manipulation| Medium | [python](/python/1442.py) | O(N^2) | O(1) |
+|  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
