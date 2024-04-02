@@ -60,4 +60,7 @@
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | Array, Hash Table, Math | Medium | [python](/python/2442.py) | O(N*m) | O(N) |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) | Array, Math, Bit Manipulation| Medium | [python](/python/1442.py) | O(N^2) | O(1) |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | Array, Hash Table, String | Medium | [python](/python/890.py) | O(P*W) | O(P*W) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Math | Easy | [python](/python/9.py) | O(N) | O(1) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=daily-question&envId=2024-04-02) | Has Table, String | Easy | [python](/python/205) | O(N) | O(N) |
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/?envType=daily-question&envId=2024-04-02) | Array, Simulation | Medium | [python](/python/1535.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
