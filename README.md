@@ -63,4 +63,12 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Math | Easy | [python](/python/9.py) | O(N) | O(1) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=daily-question&envId=2024-04-02) | Has Table, String | Easy | [python](/python/205) | O(N) | O(N) |
 | 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/?envType=daily-question&envId=2024-04-02) | Array, Simulation | Medium | [python](/python/1535.py) | O(N) | O(N) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Array, Hash Table, Sorting | Easy | [python](/python/217.py) | O(N) | O(N) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Hash Table, String | Easy | [python](/python/242.py) | O(S) | O(S) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Array, Hash Table, String | Easy | [python](/python/1.py) | O(N) | O(1) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Array, Hash Table, String, Sorting | Medium | [python](/python/49.py) | O(N*KlogK) | O(N) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Array, Hash Table, Sorting | Medium | [python](/python/347.py) | O(NlogN) | O(N+K) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Array, Prefix Sum | Medium | [python](/python/238.py) | O(N) | O(N) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |  | Medium | [python](/python/36.py) | O() | O() |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |  | Medium | [python](/python/128.py) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
