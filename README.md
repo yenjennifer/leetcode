@@ -69,6 +69,6 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Array, Hash Table, String, Sorting | Medium | [python](/python/49.py) | O(N*KlogK) | O(N) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Array, Hash Table, Sorting | Medium | [python](/python/347.py) | O(NlogN) | O(N+K) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Array, Prefix Sum | Medium | [python](/python/238.py) | O(N) | O(N) |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |  | Medium | [python](/python/36.py) | O() | O() |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |  | Medium | [python](/python/128.py) | O() | O() |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Array, Hash Table, Matrix | Medium | [python](/python/36.py) | O(N) | O(1) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Array, Hash Table | Medium | [python](/python/128.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
