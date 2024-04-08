@@ -72,5 +72,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Array, Hash Table, Matrix | Medium | [python](/python/36.py) | O(N) | O(1) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Array, Hash Table | Medium | [python](/python/128.py) | O(N) | O(N) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Two Pointers, Sting | Easy | [python](/python/125.py) | O(N) | O(1) |
-|  | []() |  |  | [python](/python/) | O() | O() |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array, Two Pointers | Medium | [python](/python/167.py) | O(N) | O(1) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Array, Two Pointers, Sorting | Medium | [python](/python/15.py) | O(NlogN) | O(N^2) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Array, Two Pointer, Greedy | Medium | [python](/python/11.py) | O(N) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
