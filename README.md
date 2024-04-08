@@ -75,4 +75,5 @@
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array, Two Pointers | Medium | [python](/python/167.py) | O(N) | O(1) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Array, Two Pointers, Sorting | Medium | [python](/python/15.py) | O(NlogN) | O(N^2) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Array, Two Pointer, Greedy | Medium | [python](/python/11.py) | O(N) | O(1) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | String, Stack | Easy | [python](/python/20.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
