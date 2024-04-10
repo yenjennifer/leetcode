@@ -76,4 +76,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Array, Two Pointers, Sorting | Medium | [python](/python/15.py) | O(NlogN) | O(N^2) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Array, Two Pointer, Greedy | Medium | [python](/python/11.py) | O(N) | O(1) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | String, Stack | Easy | [python](/python/20.py) | O(N) | O(N) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | String, Stack | Easy | [python](/python/1021.py) | O(N) | O(N) |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Array, String, Stack | Easy | [python](/python/1598.py) | O(N) | O(1) |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | Two Pointers, String, Stack | Easy | [python](/python/844.py) | O(N+M) | O(N+M) |
 |  | []() |  |  | [python](/python/) | O() | O() |
