@@ -79,4 +79,5 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | String, Stack | Easy | [python](/python/1021.py) | O(N) | O(N) |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Array, String, Stack | Easy | [python](/python/1598.py) | O(N) | O(1) |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | Two Pointers, String, Stack | Easy | [python](/python/844.py) | O(N+M) | O(N+M) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Array, Hash Table | Easy | [python](/python/169.py) | O(N) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
