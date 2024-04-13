@@ -80,4 +80,6 @@
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Array, String, Stack | Easy | [python](/python/1598.py) | O(N) | O(1) |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | Two Pointers, String, Stack | Easy | [python](/python/844.py) | O(N+M) | O(N+M) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Array, Hash Table | Easy | [python](/python/169.py) | O(N) | O(1) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | String | Easy | [python](/python/) | O(N) | O(1) |
+| 3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/) |  |  | [python](/python/3111.py) | O(NlogN) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
