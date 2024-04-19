@@ -81,5 +81,6 @@
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | Two Pointers, String, Stack | Easy | [python](/python/844.py) | O(N+M) | O(N+M) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Array, Hash Table | Easy | [python](/python/169.py) | O(N) | O(1) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | String | Easy | [python](/python/) | O(N) | O(1) |
-| 3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/) |  |  | [python](/python/3111.py) | O(NlogN) | O(1) |
+| 3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/) | Array, Greedy, Sorting | Medium | [python](/python/3111.py) | O(NlogN) | O(1) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=daily-question&envId=2024-04-01) | String | Easy | [python](/python/58.py) | O(N) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
