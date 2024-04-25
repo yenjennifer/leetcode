@@ -83,4 +83,8 @@
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | String | Easy | [python](/python/) | O(N) | O(1) |
 | 3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/) | Array, Greedy, Sorting | Medium | [python](/python/3111.py) | O(NlogN) | O(1) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=daily-question&envId=2024-04-01) | String | Easy | [python](/python/58.py) | O(N) | O(1) |
+| 3114 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/) | String, Enumeration | Easy | [python](/python/3114.py) | O(1) | O(1) |
+| 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | Array, Math | Medium | [python](/python/3115.py) | O(N*sqrt(max(nums))) | O(N) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack, Design | Medium | [python](/python/155.py) | O(1) | O(N) |
+|  | []() |  |  | [python](/python/) | O() | O() |
 |  | []() |  |  | [python](/python/) | O() | O() |
