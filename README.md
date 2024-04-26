@@ -75,7 +75,7 @@
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Array, Two Pointers | Medium | [python](/python/167.py) | O(N) | O(1) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Array, Two Pointers, Sorting | Medium | [python](/python/15.py) | O(NlogN) | O(N^2) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Array, Two Pointer, Greedy | Medium | [python](/python/11.py) | O(N) | O(1) |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | String, Stack | Easy | [python](/python/20.py) | O(N) | O(N) |
+| **20** | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | String, Stack | Easy | [python](/python/20.py) | O(N) | O(N) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | String, Stack | Easy | [python](/python/1021.py) | O(N) | O(N) |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Array, String, Stack | Easy | [python](/python/1598.py) | O(N) | O(1) |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | Two Pointers, String, Stack | Easy | [python](/python/844.py) | O(N+M) | O(N+M) |
@@ -87,4 +87,5 @@
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | Array, Math | Medium | [python](/python/3115.py) | O(N*sqrt(max(nums))) | O(N) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack, Design | Medium | [python](/python/155.py) | O(1) | O(N) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Array, Math, Stack | Medium | [python](/python/150.py) | O(N) | O(N) |
+| **22** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | String, Dynamic Programming, Backtracking | Medium | [python](/python/22.py) | O(2^N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
