@@ -86,5 +86,5 @@
 | 3114 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/) | String, Enumeration | Easy | [python](/python/3114.py) | O(1) | O(1) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | Array, Math | Medium | [python](/python/3115.py) | O(N*sqrt(max(nums))) | O(N) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack, Design | Medium | [python](/python/155.py) | O(1) | O(N) |
-|  | []() |  |  | [python](/python/) | O() | O() |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Array, Math, Stack | Medium | [python](/python/150.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
