@@ -88,4 +88,5 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack, Design | Medium | [python](/python/155.py) | O(1) | O(N) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Array, Math, Stack | Medium | [python](/python/150.py) | O(N) | O(N) |
 | **22** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | String, Dynamic Programming, Backtracking | Medium | [python](/python/22.py) | O(2^N) | O(N) |
+| **739** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Array, Stack, Monotonic Stack | Medium | [python](/python/739.py) | O(N) | O(N) |
 |  | []() |  |  | [python](/python/) | O() | O() |
