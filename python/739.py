@@ -1,16 +1,16 @@
 temperatures = [73,74,75,71,69,72,76,73]
+#O(N)
 n = len(temperatures)
-res = [0] * n
+ans = [0] * n
 stack = []
-
 for i in range(n):
     while stack and temperatures[i] > temperatures[stack[-1]]:
         top_idx = stack.pop()
-        res[top_idx] = i - top_idx
+        ans[top_idx] = i - top_idx
     stack.append(i)
-print(res)
+print(ans)
 
-
+#O(N^2)
 # stack = []
 # ans = []
 # n = len(temperatures)
