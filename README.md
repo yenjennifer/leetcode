@@ -90,4 +90,5 @@
 | **22** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | String, Dynamic Programming, Backtracking | Medium | [python](/python/22.py) | O(2^N) | O(N) |
 | **739** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Array, Stack, Monotonic Stack | Medium | [python](/python/739.py) | O(N) | O(N) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | Array, Stack, Sorting, Monotonic Stack | Medium | [python](/python/853.py) | O(NlogN) | O(N) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Array, Binary Search | Easy | [python](/python/704.py) | O(logN) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
