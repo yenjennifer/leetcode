@@ -91,7 +91,7 @@
 | **739** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Array, Stack, Monotonic Stack | Medium | [python](/python/739.py) | O(N) | O(N) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | Array, Stack, Sorting, Monotonic Stack | Medium | [python](/python/853.py) | O(NlogN) | O(N) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Array, Binary Search | Easy | [python](/python/704.py) | O(logN) | O(1) |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Array, Binary Search, Matrix | Medium | [python](/python/74.py) | O(logn*m) | O(1) |
-| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Array, Binary Search | Medium | [python](/python/875.py) |  O(nlogm) | O(1) |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/153.py) | O(logn) | O(1) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Array, Binary Search, Matrix | Medium | [python](/python/74.py) | O(logN*M) | O(1) |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Array, Binary Search | Medium | [python](/python/875.py) |  O(NlogM) | O(1) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/153.py) | O(logN) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
