@@ -8,6 +8,7 @@ class Solution:
             return res
         else:
             min_k, max_k = 1, max(piles)
+            #find optimal hour within 1 to max(pile) that is below h
             while min_k <= max_k:
                 hours = 0
                 mid = (min_k+max_k)//2
