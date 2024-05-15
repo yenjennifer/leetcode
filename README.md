@@ -94,4 +94,5 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Array, Binary Search, Matrix | Medium | [python](/python/74.py) | O(logN*M) | O(1) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Array, Binary Search | Medium | [python](/python/875.py) |  O(NlogM) | O(1) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/153.py) | O(logN) | O(1) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/33.py) | O(logN) | O(1) |
 |  | []() |  |  | [python](/python/) | O() | O() |
