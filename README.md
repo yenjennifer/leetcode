@@ -95,4 +95,4 @@
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Array, Binary Search | Medium | [python](/python/875.py) |  O(NlogM) | O(1) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/153.py) | O(logN) | O(1) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/33.py) | O(logN) | O(1) |
-|  | []() |  |  | [python](/python/) | O() | O() |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | Hash Table, Binary Search, Design | Medium | [python](/python/981.py) | O(logN) | O(N) |
