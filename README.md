@@ -96,3 +96,4 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/153.py) | O(logN) | O(1) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/33.py) | O(logN) | O(1) |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | Hash Table, Binary Search, Design | Medium | [python](/python/981.py) | O(logN) | O(N) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Array, Dynamic Programming | Easy | [python](/python/121.py) | O(N) | O(1) |
