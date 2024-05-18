@@ -99,7 +99,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Array, Dynamic Programming | Easy | [python](/python/121.py) | O(N) | O(1) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Hash Table, Sliding Window | Medium | [python](/python/3.py) | O(N) | O(N) |
 | **567** | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | Hash Table, Sliding Window | Medium | [python](/python/567.py) | O(N) | O(N) |
-| **3** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List, Recursion | Easy | [python](/python/3.py) | O(N) | O(1) |
+| **206** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List, Recursion | Easy | [python](/python/206.py) | O(N) | O(1) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | Linked List, Math | Easy | [python](/python/1290.py) | O(N) | O(1) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Linked List, Two Pointers | Easy | [python](/python/876.py) | O(N) | O(1) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Linked List, Recursion | Easy | [python](/python/21.py) | O(min(N,M)) | O(1) |
