@@ -97,3 +97,15 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Array, Binary Search | Medium | [python](/python/33.py) | O(logN) | O(1) |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | Hash Table, Binary Search, Design | Medium | [python](/python/981.py) | O(logN) | O(N) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Array, Dynamic Programming | Easy | [python](/python/121.py) | O(N) | O(1) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Hash Table, Sliding Window | Medium | [python](/python/3.py) | O(N) | O(N) |
+| **567** | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | Hash Table, Sliding Window | Medium | [python](/python/567.py) | O(N) | O(N) |
+| **3** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List, Recursion | Easy | [python](/python/3.py) | O(N) | O(1) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | Linked List, Math | Easy | [python](/python/1290.py) | O(N) | O(1) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Linked List, Two Pointers | Easy | [python](/python/876.py) | O(N) | O(1) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Linked List, Recursion | Easy | [python](/python/21.py) | O(min(N,M)) | O(1) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | Hash Table, Linked List, Two Pointers | Easy | [python](/python/160.py) | O(N+M) | O(N) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Linked List, Two Pointers, Stack | Easy | [python](/python/234.py) | O(N) | O(1) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Linked List | Easy | [python](/python/83.py) | O(N) | O(1) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | Linked List | Easy | [python](/python/203.py) | O(N) | O(1) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Linked List, Two Pointers | Medium | [python](/python/143.py) | O(N) | O(1) |
+|  | []() |  |  | [python](/python/.py) | O() | O() |
