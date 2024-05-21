@@ -108,4 +108,8 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Linked List | Easy | [python](/python/83.py) | O(N) | O(1) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | Linked List | Easy | [python](/python/203.py) | O(N) | O(1) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Linked List, Two Pointers | Medium | [python](/python/143.py) | O(N) | O(1) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Linked List, Two Pointers | Medium | [python](/python/19.py) | O(N) | O(1) |
+| **138** | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Hash Table, Linked List | Medium | [python](/python/138.py) | O(N) | O(N) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Linked List, Math | Medium | [python](/python/2.py) | O(max(N,M)) | O(1) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Hash Table, Linked List, Two Pointers |  | [python](/python/141.py) | O(N) | O(1) |
 |  | []() |  |  | [python](/python/.py) | O() | O() |
